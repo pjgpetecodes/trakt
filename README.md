@@ -1,6 +1,6 @@
-# Blazor Hybrid Web App
+# Previously On Demo
 
-This project is a Blazor Hybrid Web App that allows users to generate "Previously on" type summaries for TV series episodes. The application interacts with external services like Azure OpenAI, OpenSubtitles, and Trakt to fetch and summarize subtitle content.
+This project is a App that allows users to generate "Previously on" type summaries for TV series episodes. The application interacts with external services like Azure OpenAI, OpenSubtitles, and Trakt to fetch and summarize subtitle content.
 
 ## Prerequisites
 
